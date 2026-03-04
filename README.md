@@ -98,3 +98,7 @@
 ---
 
 ⭐ *Always learning. Always building.*
+
+<p>
+<img src="https://github.com/Karabo-Mokholo01/Karabo-Mokholo01/blob/output/github-contribution-grid-snake.svg" />
+</p>
