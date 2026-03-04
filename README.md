@@ -43,13 +43,6 @@
 </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Karabo-Mokholo01&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -57,14 +50,6 @@
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karabo-Mokholo01&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karabo-Mokholo01&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -99,6 +84,4 @@
 
 ⭐ *Always learning. Always building.*
 
-<p>
-<img src="https://github.com/Karabo-Mokholo01/Karabo-Mokholo01/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
